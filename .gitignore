@@ -1,2 +1,3 @@
 thisignore.txt
 log/
+*.orig
