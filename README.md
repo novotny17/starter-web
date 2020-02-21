@@ -18,3 +18,6 @@ Sample text for test
 
 Sample text for test 2
 Some more text
+
+###Copyright
+Copyright 2020 FYLYP
