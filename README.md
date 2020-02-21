@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Sample deploy message
+Sample deploy message adding line for rebase
 
 ## TEST
 
