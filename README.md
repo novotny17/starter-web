@@ -8,7 +8,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Sample deploy message adding line for rebase
+Sample deploy message 
+Adding line for rebase, more changes from MYFEATURE BRANCH.
 
 ## TEST
 
