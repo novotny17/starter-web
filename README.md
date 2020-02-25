@@ -22,4 +22,4 @@ Sample text for test 2
 Some more text
 
 ###Copyright
-Copyright 2020 FYLYP
+Copyright 2020 FYLYP All rights reserved
