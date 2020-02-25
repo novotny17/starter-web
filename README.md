@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 
 Sample deploy message 
 Adding line for rebase, more changes from MYFEATURE BRANCH.
+Emergency changes.
 
 ## TEST
 
